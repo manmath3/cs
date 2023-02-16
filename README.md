@@ -1,3 +1,3 @@
 # cs
 with only HTML and CSS
-https://manmath3.github.io/cs/
+The website :- https://manmath3.github.io/cs/
